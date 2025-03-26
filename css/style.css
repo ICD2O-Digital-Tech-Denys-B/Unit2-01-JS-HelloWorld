@@ -2,3 +2,13 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+* {
+    text-align: center;
+}
+body {
+    color :white;
+    background-color: crimson;
+}
+div {
+    font-size: 500%;
+}
